@@ -24,7 +24,7 @@ a111:
 #your base path should be either an existing comfy install or a central folder where you store all of your models, loras, etc.
 
 #comfyui:
-#     base_path: path/to/comfyui/
+#     base_path: /Users/ericwchii/stable-diffusion-webui
 #     checkpoints: models/checkpoints/
 #     clip: models/clip/
 #     clip_vision: models/clip_vision/
